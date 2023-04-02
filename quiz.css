@@ -1,0 +1,38 @@
+html,body
+{
+    background-color: #EEEEEE !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 100% !important;
+    
+}
+.col-md-6
+{
+    padding: 20px;
+    margin-top: 15% !important;	  
+}
+input,label
+{
+    margin: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+#question
+{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+button
+{
+    margin: 8px auto !important;
+}
+
+#scoreArea{
+    display: none;
+    text-align: center !important ;
+}
+
+.submit-answer{
+    text-align: center !important ;
+}
